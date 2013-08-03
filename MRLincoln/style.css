@@ -1,0 +1,43 @@
+
+
+#header{
+   height:300px;
+   width:100%;
+   background-color:white;
+   position: relative;
+   background-image: url(images/topHat.jpg);
+   background-size: 300px 257px;
+   background-repeat:no-repeat;
+   background-position: center;
+}
+
+
+
+
+	
+
+
+
+
+       #mainDiv {
+         height: 100px;
+         width: 80px;
+         position: relative;
+         border-bottom: 2px solid #f51c40;
+         background: #3beadc;
+         }
+
+       #borderBottom {
+         border-bottom: 2px solid #f51c40;
+         position: absolute;
+         right: 20%;
+         left: 20%;
+		 margin-top: 250px;
+		 text-align: center;
+		 padding-top:10px
+         }
+
+
+
+
+
