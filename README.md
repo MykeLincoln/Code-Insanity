@@ -1,0 +1,4 @@
+Code-Insanity
+=============
+
+I have been coding for about three years now, and i have come to realize that i SUCK at coding. But i love doing it. So with at that being said this is my place to get my code roasted by all of you in the hopes that i gradualy get better at what i love to do so much. I heard of someone coding one website every day for 180 days. Well i dont have that kind of time but i love the idea and i think that the commitment will work. So for myself i have downgraded it a little and decided to go with one site a week. The rules are a new site every sunday even if it is not complete. And it has to have elements in it that push my learning somthing i have not done yet. This is my bootcamp and who better to be my drill sgt than all of you. So bring on the pain and tell me every thing im doing wrong.
